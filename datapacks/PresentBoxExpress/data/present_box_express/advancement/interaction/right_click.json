@@ -1,0 +1,15 @@
+{
+	"criteria": {
+		"right_click": {
+			"trigger": "player_interacted_with_entity",
+			"conditions": {
+				"entity": {
+					"nbt": "{Tags:[\"PresentBoxExpress\"]}"
+				}
+			}
+		}
+	},
+	"rewards": {
+		"function": "present_box_express:interaction/right_click"
+	}
+}

@@ -1,0 +1,15 @@
+{
+	"criteria": {
+		"left_click": {
+			"trigger": "player_hurt_entity",
+			"conditions": {
+				"entity": {
+					"nbt": "{Tags:[\"PresentBoxExpress\"]}"
+				}
+			}
+		}
+	},
+	"rewards": {
+		"function": "present_box_express:interaction/left_click"
+	}
+}

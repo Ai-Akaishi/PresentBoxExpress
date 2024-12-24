@@ -1,0 +1,193 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "cases": [
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "present_box_express:item/tree"
+        },
+        "when": "tree"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "present_box_express:item/box_1"
+        },
+        "when": "goal_1st"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "present_box_express:item/box_2"
+        },
+        "when": "goal_2nd"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "present_box_express:item/allay_1"
+        },
+        "when": "allay_1st"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "present_box_express:item/allay_2"
+        },
+        "when": "allay_2nd"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "present_box_express:item/panel_only"
+        },
+        "when": "panel"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "present_box_express:item/panel_alpha"
+        },
+        "when": "panel_alpha"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "present_box_express:item/bell"
+        },
+        "when": "bell"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "present_box_express:item/stage2"
+        },
+        "when": "stage"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "present_box_express:item/stage_edit2"
+        },
+        "when": "stage_edit"
+      },
+      {
+        "model": {
+          "type": "minecraft:empty"
+        },
+        "when": "empty"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "present_box_express:item/arrow_1"
+        },
+        "when": "arrow_1st"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "present_box_express:item/arrow_2"
+        },
+        "when": "arrow_2nd"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "present_box_express:item/arrow_3"
+        },
+        "when": "arrow_both_0"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "present_box_express:item/arrow_both_90"
+        },
+        "when": "arrow_both_90"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "present_box_express:item/arrow_both_180"
+        },
+        "when": "arrow_both_180"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "present_box_express:item/arrow_both_270"
+        },
+        "when": "arrow_both_270"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "present_box_express:item/active_arrow_1"
+        },
+        "when": "active_arrow_1st"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "present_box_express:item/active_arrow_2"
+        },
+        "when": "active_arrow_2nd"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "present_box_express:item/active_arrow_3"
+        },
+        "when": "active_arrow_both_0"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "present_box_express:item/active_arrow_both_90"
+        },
+        "when": "active_arrow_both_90"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "present_box_express:item/active_arrow_both_180"
+        },
+        "when": "active_arrow_both_180"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "present_box_express:item/active_arrow_both_270"
+        },
+        "when": "active_arrow_both_270"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "present_box_express:item/bell_only"
+        },
+        "when": "bell_only"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "present_box_express:item/allay_left"
+        },
+        "when": "allay_left"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "present_box_express:item/allay_right"
+        },
+        "when": "allay_right"
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:block/red_stained_glass"
+    },
+    "property": "minecraft:custom_model_data"
+  }
+}

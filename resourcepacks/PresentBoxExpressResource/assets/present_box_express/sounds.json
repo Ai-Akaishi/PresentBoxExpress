@@ -1,0 +1,12 @@
+{
+  "game_music": {
+    "sounds": [
+      {
+        "name": "present_box_express:musmus-bgm-006",
+        "volume": 0.5,
+        "stream": true
+      }
+    ],
+    "subtitle": ""
+  }
+}

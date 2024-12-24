@@ -1,0 +1,86 @@
+{
+  "block.amethyst_block.step.1": {
+    "sounds": [
+      "block/amethyst/step1"
+    ],
+    "subtitle": "subtitles.block.generic.footsteps"
+  },
+  "block.amethyst_block.step.2": {
+    "sounds": [
+      "block/amethyst/step2"
+    ],
+    "subtitle": "subtitles.block.generic.footsteps"
+  },
+  "block.amethyst_block.step.3": {
+    "sounds": [
+      "block/amethyst/step3"
+    ],
+    "subtitle": "subtitles.block.generic.footsteps"
+  },
+  "block.amethyst_block.step.4": {
+    "sounds": [
+      "block/amethyst/step4"
+    ],
+    "subtitle": "subtitles.block.generic.footsteps"
+  },
+  "block.amethyst_block.step.5": {
+    "sounds": [
+      "block/amethyst/step5"
+    ],
+    "subtitle": "subtitles.block.generic.footsteps"
+  },
+  "block.amethyst_block.step.6": {
+    "sounds": [
+      "block/amethyst/step6"
+    ],
+    "subtitle": "subtitles.block.generic.footsteps"
+  },
+  "block.amethyst_block.step.7": {
+    "sounds": [
+      "block/amethyst/step7"
+    ],
+    "subtitle": "subtitles.block.generic.footsteps"
+  },
+  "block.amethyst_block.step.8": {
+    "sounds": [
+      "block/amethyst/step8"
+    ],
+    "subtitle": "subtitles.block.generic.footsteps"
+  },
+  "block.amethyst_block.step.9": {
+    "sounds": [
+      "block/amethyst/step9"
+    ],
+    "subtitle": "subtitles.block.generic.footsteps"
+  },
+  "block.amethyst_block.step.10": {
+    "sounds": [
+      "block/amethyst/step10"
+    ],
+    "subtitle": "subtitles.block.generic.footsteps"
+  },
+  "block.amethyst_block.step.11": {
+    "sounds": [
+      "block/amethyst/step11"
+    ],
+    "subtitle": "subtitles.block.generic.footsteps"
+  },
+  "block.amethyst_block.step.12": {
+    "sounds": [
+      "block/amethyst/step12"
+    ],
+    "subtitle": "subtitles.block.generic.footsteps"
+  },
+  "block.amethyst_block.step.13": {
+    "sounds": [
+      "block/amethyst/step13"
+    ],
+    "subtitle": "subtitles.block.generic.footsteps"
+  },
+  "block.amethyst_block.step.14": {
+    "sounds": [
+      "block/amethyst/step14"
+    ],
+    "subtitle": "subtitles.block.generic.footsteps"
+  }
+}
