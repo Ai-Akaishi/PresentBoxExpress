@@ -71,7 +71,7 @@ function present_box_express:transition/waiting_to_select_stage/set_panels/-m1 {
 function present_box_express:transition/waiting_to_select_stage/set_panels/-m1 {index:66}
 function present_box_express:transition/waiting_to_select_stage/set_panels/-m1 {index:67}
 function present_box_express:transition/waiting_to_select_stage/set_panels/-m1 {index:68}
-function present_box_express:transition/waiting_to_select_stage/set_panels/-m1 {index:69}
+# function present_box_express:transition/waiting_to_select_stage/set_panels/-m1 {index:69}
 
 # 鐘を召喚する
 execute positioned ^1.00 ^0.125 ^0.75 run function present_box_express:panel/summon-m {type:"bell"}
